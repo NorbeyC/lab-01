@@ -39,7 +39,7 @@ System.out.println(c);
 ```
 
 ## Parte 3
-![](main.png)
+![](main1.png)
 
 ![](remote.png)
 
