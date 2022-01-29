@@ -39,4 +39,6 @@ b = 7.1
 c = a * b;
 System.out.println(c);
 ```
+![](main.jpeg)
+![](remote.jpeg)
 
