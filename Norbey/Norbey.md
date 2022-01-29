@@ -38,3 +38,8 @@ c = a + b;
 System.out.println(c);
 ```
 
+## Parte 3
+![](main.png)
+
+![](remote.png)
+
